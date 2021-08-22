@@ -2,9 +2,9 @@ NAME	=	checker
 
 HEADER	=   checker.h
 
-SRC		=	check.c			get_next_line_utils.c	get_next_line.c\
-			init.c			main.c 					operations_1.c\
-			operations_2.c	operations_3.c			utilities.c
+SRC		=	check.c		get_next_line_utils.c	get_next_line.c\
+			init.c		main.c 			operations_1.c\
+			operations_2.c	operations_3.c		utilities.c
 
 FLAGS	=	-Wall -Wextra -Werror
 
